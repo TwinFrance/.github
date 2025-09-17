@@ -1,0 +1,7 @@
+# robots.txt pour TwinFrance
+# Instructions pour les robots d’exploration
+
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/TwinFrance/sitemap.xml
